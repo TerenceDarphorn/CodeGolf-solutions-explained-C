@@ -23,4 +23,4 @@ Each CodeGolf 'hole' is a directory. This directory can contain the following fi
 - `explained.c`: The normal code, not optimized for performance, but readability. (This one is the most useful)
 - `compact_explained.c`: Same as compact.c, but with comments en newlines
 - `compact.c`: The most compact I could get, not very compact (I'm not good at writing very short code), but it may be useful.
-- `api.c`: This contains functions instead of a single main program. This can be used if you need the functionality of the exercise.
+- `api.c`: This contains functions instead of a single main program. This can be used if you need the functionality of the exercise. Note that this one isn't tested!
