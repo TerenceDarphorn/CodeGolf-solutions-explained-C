@@ -1,6 +1,8 @@
 # CodeGolf-solutions-explained-C
 Some solutions of [code.golf](https://code.golf) challenges in C with explaining comments.
 
+It is explained really simple, in the hope for beginners to understand.
+
 ##  Running
 All code with a `main` function can be copied to code.golf and run live.
 
