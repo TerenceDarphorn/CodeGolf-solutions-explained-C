@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 /*
 STRATEGY:
 for every number from 1 to 100:
@@ -8,6 +6,8 @@ for every number from 1 to 100:
   print Buzz if only a multiple of 5
   print the number itself if not a multiple of 3 and not a multiple of 5
 */
+
+#include <stdio.h>
 
 int main(int argc, char* argv[]){
 	for(int i = 1; i <= 100; i += 1){
